@@ -66,7 +66,8 @@ j'ai fait la commande `apt install build-essential`
 j'ai fait `touch hello.c` 
 
 **3.  Créez également un fichier Makefile**
-ajoutez au makefile le code suivant  :
+
+ ajoutez au makefile le code suivant  :
  obj-m += hello.o
 
  all:

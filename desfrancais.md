@@ -108,7 +108,7 @@ l’utilisateur**
 j'ai fait 
 ``` 
 #!/bin/bash
-while :; do
+while (true); do
 read a
 echo $a >> tmp.txt
 done
